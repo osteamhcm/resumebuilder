@@ -1,6 +1,7 @@
 ## Language Resume Builder
 
-Shared repository for open-sourced projects from the tool `Resume Builder Language`.
+- Shared repository for open-sourced projects from the tool `Resume Builder Language`.
+- Resume Builder is an source create your CV in real time and download a print-ready PDF. Use this online resume maker to build your resume fast and easy.
 
 ## Demo Tool Resume Builder, CV Builder
 
