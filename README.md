@@ -1,14 +1,13 @@
-## Resume Builder Language Open Source
+## Language Resume Builder
 
-Config language for resume builder tool.
+Shared repository for open-sourced projects from the tool `Resume Builder Language`.
 
 ## Demo Tool Resume Builder, CV Builder
 
-Website: https://resume.melink.top
-Demo Admin Login: admin@admin.com
-Demo Admin Password: admin@admin.com
-
-Buy Source Code: https://codecanyon.net/item/resume-builder/25370313
+- Website: https://resume.melink.top
+- Demo Admin Login: admin@admin.com
+- Demo Admin Password: admin@admin.com
+- Buy Tool: https://codecanyon.net/item/resume-builder/25370313
 
 
 ## HOW TO ADD NEW LANGUAGE?
