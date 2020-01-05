@@ -13,7 +13,7 @@
 
 ## HOW TO ADD NEW LANGUAGE?
 
-1. Open /config/languages.php and add new language:
+1. Open `/config/languages.php` and add new language:
 
 ```
 
