@@ -1,8 +1,8 @@
-# Resume Builder Language Open Source
+## Resume Builder Language Open Source
 
 Config language for resume builder tool.
 
-# Demo Tool Resume Builder, CV Builder
+## Demo Tool Resume Builder, CV Builder
 
 Website: https://resume.melink.top
 Demo Admin Login: admin@admin.com
@@ -11,7 +11,7 @@ Demo Admin Password: admin@admin.com
 Buy Source Code: https://codecanyon.net/item/resume-builder/25370313
 
 
-# HOW TO ADD NEW LANGUAGE?
+## HOW TO ADD NEW LANGUAGE?
 
 1. Open /config/languages.php and add new language:
 
